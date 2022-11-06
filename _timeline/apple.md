@@ -12,4 +12,6 @@ events:
   - ipod_1g
   - iphone-jobs
   - apple-smartwatch
+  - apple-magic-mouse
+  - apple_magic_keyboard
 ---
