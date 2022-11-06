@@ -16,4 +16,6 @@ slides:
   - menus-on-top
   - igoefinger
   - x-window-system
+  - apple_magic_keyboard
+  - apple-magic-mouse
 ---
